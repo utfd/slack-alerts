@@ -19,6 +19,11 @@ go < 1.17
 ```shell
 go get github.com/utfd/slack-alerts
 ```
+### Setting webhooks
+At your .env file set SLACK_WEBHOOK_URL like bellow.
+```.env
+SLACK_WEBHOOK_URL=https://hooks.slack.com/services/XXXXX
+```
 
 ## Usage
 
@@ -28,13 +33,6 @@ To send a message to Slack, simply call `SlackAlert::message()` and pass it any 
 slackAlerts.Message("You have a new subscriber to the Foo newsletter!")
 ```
 
-
-
-### Setting webhooks
-
-```.env
-SLACK_WEBHOOK_URL=https://hooks.slack.com/services/XXXXX
-```
 
 ## Formatting
 
