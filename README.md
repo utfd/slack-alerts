@@ -1,5 +1,8 @@
 ![DALL·E 2022-08-04 20 18 34 - very cute happy blue cartoon gopher send a message with computer(1)](https://user-images.githubusercontent.com/109267960/182912478-cc4e4910-5524-4067-993d-1696db25358c.png)
 
+##Thanks to AI'S
+This package get helps from AI's Github Copilot, OpenAI and DALL·E
+
 ## Installation
 
 As a library
