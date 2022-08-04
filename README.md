@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/utfd/slack-alerts)](https://goreportcard.com/report/utfd/slack-alerts) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/utfd/slack-alerts/blob/master/LICENSE)
+
 ![DALL·E 2022-08-04 20 18 34 - very cute happy blue cartoon gopher send a message with computer(1)](https://user-images.githubusercontent.com/109267960/182912478-cc4e4910-5524-4067-993d-1696db25358c.png)
 
 ## Thanks to AI'S
