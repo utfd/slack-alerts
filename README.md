@@ -1,4 +1,5 @@
-![DALL·E 2022-08-04 20 18 34 - very cute happy blue cartoon gopher send a message with computer](https://user-images.githubusercontent.com/109267960/182912200-710bf803-d00e-450a-a4db-837d2aace53f.png)
+![DALL·E 2022-08-04 20 18 34 - very cute happy blue cartoon gopher send a message with computer(1)](https://user-images.githubusercontent.com/109267960/182912478-cc4e4910-5524-4067-993d-1696db25358c.png)
+
 ## Installation
 
 As a library
