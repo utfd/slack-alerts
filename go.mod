@@ -1,4 +1,4 @@
-module slack-alerts
+module github.com/utfd/slack-alerts
 
 go 1.18
 
